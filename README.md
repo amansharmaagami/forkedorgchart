@@ -136,5 +136,5 @@
 
 ## Install
 ```
-npm install @dabeng/react-orgchart
+npm install forkedorgchart
 ```

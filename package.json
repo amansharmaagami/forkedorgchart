@@ -1,5 +1,5 @@
 {
-  "name": "orgchart",
+  "name": "forkedorgchart",
   "version": "1.0.0",
   "main": "./dist/ChartContainer.js",
   "files": [
