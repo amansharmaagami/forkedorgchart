@@ -1,6 +1,6 @@
-# This library is forked version of this library with some extra layers
+## This library is forked version of [this](https://github.com/dabeng/react-orgchart) library with some extra layers
 
-![OrgChart](https://github.com/dabeng/react-orgchart)
+
 
 
 ## Features
