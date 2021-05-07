@@ -1,5 +1,5 @@
 {
-  "name": "forkedorgchart",
+  "name": "fokedorgchart",
   "version": "1.0.0",
   "main": "./dist/ChartContainer.js",
   "files": [
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/amansharmaagami/orgchart.git"
+    "url": "https://github.com/amansharmaagami/forkedorgchart.git"
   },
   "keywords": [
     "react",
@@ -23,9 +23,9 @@
   "author": "Aman Sharma <amans@agamitechnologies.com>",
   "license": "none",
   "bugs": {
-    "url": "https://github.com/amansharmaagami/orgchart/issues"
+    "url": "https://github.com/amansharmaagami/forkedorgchart/issues"
   },
-  "homepage": "https://github.com/amansharmaagami/orgchart#readme",
+  "homepage": "https://github.com/amansharmaagami/forkedorgchart#readme",
   "babel": {
     "presets": [
       "@babel/preset-env",
